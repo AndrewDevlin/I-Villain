@@ -36,10 +36,11 @@ User completes a five question quiz, the answers of which determine which villai
 
 ## Setup/Installation Requirements
 
-* _Clone this application at https://github.com/dlauby/i-villain.git_
+* _Clone this application at [https://github.com/danlauby/i-villain.git](https://github.com/danlauby/i-villain.git)_
 * _Locate index.html file within to-do-list directory_
 * _Open index.html in preferred browser_
 * _Play_
+* _View the site by clicking this [link](https://danlauby.github.io/i-villain/) 
 
 _Only a web browser is necessary to operate_
 
